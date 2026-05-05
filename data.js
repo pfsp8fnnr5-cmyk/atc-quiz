@@ -2771,7 +2771,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 555,
-    "question": "「太原進場」之英文縮語為(A)SID(B)ADIZ(C)TA(D)FAF。",
+    "question": "「太康進場」之英文縮語為(A)SID(B)ADIZ(C)TA(D)FAF。",
     "answer": "C"
   },
   {
