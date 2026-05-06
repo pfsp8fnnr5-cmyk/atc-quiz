@@ -2471,7 +2471,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 495,
-    "question": "台東航用地名為(A)RCGI(B)RCRA(C)RCCS(D)RCSM。",
+    "question": "左營航用地名為(A)RCGI(B)RCRA(C)RCCS(D)RCSM。",
     "answer": "B"
   },
   {
@@ -3281,7 +3281,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 657,
-    "question": "「延長三邊」航管英文標準術語為(A)EXTEND DOWNWIND (B)EXTENDUPWIND (C)EXTEND DOWNWIND (D)EXTEND BASELEG。",
+    "question": "「延長三邊」航管英文標準術語為(A)EXTEND DOWNWIND (B)EXTENDUPWIND (C)EXTEND DOORWIND (D)EXTEND BASELEG。",
     "answer": "A"
   },
   {
