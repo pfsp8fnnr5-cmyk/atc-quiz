@@ -726,7 +726,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 146,
-    "question": "精確航向導引設備：(A)VORTAC (B)MLS (C)ILS (D)VOR。",
+    "question": "特高頻多向導航臺縮語：(A)VORTAC (B)MLS (C)ILS (D)VOR。",
     "answer": "D"
   },
   {
@@ -1636,7 +1636,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 328,
-    "question": "航空器作低空進場時，距著陸點一浬，高度三百呎時，即應(A)拉開重飛(B)放手重飛(C)開始爬升(D)開始轉彎。",
+    "question": "航空器作低空進場時，距著陸點一浬，高度三百呎時，即應(A)拉開重飛(B)改平重飛(C)開始爬升(D)開始轉彎。",
     "answer": "B"
   },
   {
