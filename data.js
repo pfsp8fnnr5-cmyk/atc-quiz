@@ -2531,7 +2531,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 507,
-    "question": "「導航臺」縮語(A)TACAN(B)NBD(C)ILS(D)NDB。",
+    "question": "「歸航臺」縮語(A)TACAN(B)NBD(C)ILS(D)NDB。",
     "answer": "D"
   },
   {
