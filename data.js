@@ -681,7 +681,7 @@ const QUIZ_DATA = [
   },
   {
     "no": 137,
-    "question": "金門終端管制區域，無線電呼號為(CHINMEN CONTROL) (B)CHINMENAPPROACH (C)KAOHSIUNG APPROACH (D)TAIPEI CONTROL。",
+    "question": "金門終端管制區域，無線電呼號為(A)CHINMEN CONTRO (B)CHINMENAPPROACH (C)KAOHSIUNG APPROACH (D)TAIPEI CONTROL。",
     "answer": "C"
   },
   {
